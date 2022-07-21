@@ -90,7 +90,10 @@ ul {
   transition: 0.75s;
   opacity: 1;
 }
-
+.pigTile img {
+  height:250px;
+  width:250px;
+}
 .minBackgroundSneak {
   position: absolute;
   width: inherit;
